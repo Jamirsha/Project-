@@ -93,7 +93,4 @@ Set up Eclipse IDE for Java EE development:
 ## Usage
 Provide examples of usage and more screenshots if possible.
 
-## Contributing
-Shah Jamir has contributed to this project. If you wish to contribute as well, please follow the guidelines in 
-
 
