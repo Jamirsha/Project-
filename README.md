@@ -7,8 +7,8 @@
    - 💻 **Registration & Login:** Implemented user authentication and session management using Java EE.
    - 🛒 **Cart & Checkout:** Designed a responsive cart page with real-time updates using Bootstrap and JavaScript.
    - 🗃️ **Database Integration:** Utilized MySQL to store and manage product and user data.
-   -📦 Orders: Facilitated order management and processing, allowing users to track and manage their purchases.
-   -📝 Registrations: Enabled user registration functionality to create new accounts securely.
+   - 📦 Orders: Facilitated order management and processing, allowing users to track and manage their purchases.
+   - 📝 Registrations: Enabled user registration functionality to create new accounts securely.
    ## Technologies Used
    - ☕ Java EE
    - 🌐 JSP
